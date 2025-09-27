@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(155, 0, 0);
+}
+h1{
+    background-color: rgb(134, 249, 255);
+    color: white;
+    text-align: center;
+}
+.g{
+    background-color: bisque;
+}
+.p{
+    width: 350px;
+    background-color: white;
+}
+.p img{
+    width: 150px;
+    border-radius: 20px;
+}
+h3{
+    text-align: center;
+}
+img{
+    text-align: center;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+}
